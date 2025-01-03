@@ -63,6 +63,7 @@ macro_rules! rm_code_enum {
 
 rm_code_enum! {
 	SPR => Sprinting => "Sprinting",
+	SBA => Shortblade => "Short Blade",
 	LFT => Lightfooted => "Lightfooted",
 	NIM => Nimble => "Nimble",
 	SNE => Sneaking => "Sneaking",
